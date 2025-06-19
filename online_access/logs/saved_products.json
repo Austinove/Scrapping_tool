@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "prod_id": "2",
+            "products_price": "99.0000",
+            "manuf": "82 73 2 420 634",
+            "new_price": 631.9,
+            "timestamp": "2025-06-03 13:32:46"
+        },
+        {
+            "prod_id": "3",
+            "products_price": "0.3300",
+            "manuf": "36 13 2 461 758",
+            "new_price": 188.27,
+            "timestamp": "2025-06-03 13:32:46"
+        },
+        {
+            "prod_id": "4",
+            "products_price": "7.0000",
+            "manuf": "82 29 2 355 518",
+            "new_price": 62,
+            "timestamp": "2025-06-03 13:32:46"
+        },
+        {
+            "prod_id": "5",
+            "products_price": "5.0000",
+            "manuf": "51 16 2 462 825",
+            "new_price": 470,
+            "timestamp": "2025-06-03 13:32:46"
+        },
+        {
+            "prod_id": "7",
+            "products_price": "23.0000",
+            "manuf": "36 12 2 447 402",
+            "new_price": 25,
+            "timestamp": "2025-06-03 13:32:46"
+        },
+        {
+            "prod_id": "8",
+            "products_price": "42.0000",
+            "manuf": "36 12 2 447 244",
+            "new_price": 290,
+            "timestamp": "2025-06-03 13:32:46"
+        }
+    ],
+    [
+        {
+            "prod_id": "2",
+            "products_price": "99.0000",
+            "manuf": "82 73 2 420 634",
+            "new_price": 631.9,
+            "timestamp": "2025-06-03 14:13:57"
+        },
+        {
+            "prod_id": "3",
+            "products_price": "0.3300",
+            "manuf": "36 13 2 461 758",
+            "new_price": 188.27,
+            "timestamp": "2025-06-03 14:13:57"
+        },
+        {
+            "prod_id": "4",
+            "products_price": "7.0000",
+            "manuf": "82 29 2 355 518",
+            "new_price": 62,
+            "timestamp": "2025-06-03 14:13:57"
+        },
+        {
+            "prod_id": "5",
+            "products_price": "5.0000",
+            "manuf": "51 16 2 462 825",
+            "new_price": 470,
+            "timestamp": "2025-06-03 14:13:57"
+        },
+        {
+            "prod_id": "7",
+            "products_price": "23.0000",
+            "manuf": "36 12 2 447 402",
+            "new_price": 25,
+            "timestamp": "2025-06-03 14:13:57"
+        },
+        {
+            "prod_id": "8",
+            "products_price": "42.0000",
+            "manuf": "36 12 2 447 244",
+            "new_price": 290,
+            "timestamp": "2025-06-03 14:13:57"
+        }
+    ]
+]
